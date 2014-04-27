@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://summaminutiae.github.io/sitemap.xml 

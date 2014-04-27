@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Psalms | Summa minutiae]]></title>
+  <link href="http://summaminutiae.github.io/blog/categories/psalms/atom.xml" rel="self"/>
+  <link href="http://summaminutiae.github.io/"/>
+  <updated>2014-04-27T14:21:20-05:00</updated>
+  <id>http://summaminutiae.github.io/</id>
+  <author>
+    <name><![CDATA[Bill White]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The seven penitential psalms]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/04/27/the-seven-penitential-psalms/"/>
+    <updated>2014-04-27T07:35:10-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/04/27/the-seven-penitential-psalms</id>
+    <content type="html"><![CDATA[<h3>Thomas Brampton, 1414</h3>
+
+<p>From what sketchy records we have, <a href="http://www.archive.org/stream/psalmistsofbrita01holl#page/72/mode/2up">Thomas Brampton</a> seems to have been
+an English Franciscan priest and a Doctor of Sacred Theology who, in 1414, wrote
+a paraphrase in Middle English of the seven penitential Psalms.  These
+were edited into the <a href="http://www.archive.org/stream/earlyenglishpoet07perc#page/n51/mode/2up">edition of the Percy Society in 1842</a>.</p>
+
+<h3>St John Fisher, 1508</h3>
+
+<p>Commentaries on the seven penitential psalms: <a href="https://archive.org/details/commentaryonseve01fishuoft">volume one</a> and <a href="https://archive.org/details/commentaryonseve02fishuoft">volume two</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
