@@ -4,7 +4,7 @@
   <title><![CDATA[Summa minutiae]]></title>
   <link href="http://summaminutiae.github.io/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
-  <updated>2014-04-28T11:00:25-05:00</updated>
+  <updated>2014-04-28T12:28:01-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
   <author>
     <name><![CDATA[Bill White]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It's that time of year]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/04/28/plant-a-garden/"/>
+    <updated>2014-04-28T12:07:34-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/04/28/plant-a-garden</id>
+    <content type="html"><![CDATA[<p><img src="http://members.wolfram.com/billw/images/plant-a-farm-garden.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sources of new knowledge]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/04/28/sources-of-new-knowledge/"/>
+    <updated>2014-04-28T11:15:23-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/04/28/sources-of-new-knowledge</id>
+    <content type="html"><![CDATA[<blockquote><p>New knowledge, when to any purpose, must come by contemplation of old knowledge, in every matter which concerns thought; mechanical contrivance sometimes, not very often, escapes this rule. All the men who are now called discoverers, in every matter ruled by thought, have been men versed in the minds of their predecessors and learned in what had been before them. There is not one exception.</p><footer><strong>Augustus de Morgan</strong> <cite><a href='https://archive.org/stream/budgetofparadoxe00demouoft#page/4/mode/1up'>A Budget of Paradoxes</a></cite></footer></blockquote>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Glossaries of archaic English words]]></title>

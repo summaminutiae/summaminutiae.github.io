@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: St John Fisher | Summa minutiae]]></title>
-  <link href="http://summaminutiae.github.io/blog/categories/st-john-fisher/atom.xml" rel="self"/>
+  <title><![CDATA[Category: English | Summa minutiae]]></title>
+  <link href="http://summaminutiae.github.io/blog/categories/english/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
   <updated>2014-04-28T12:28:01-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Glossaries of archaic English words]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/04/28/glossaries-of-archaic-english-words/"/>
+    <updated>2014-04-28T10:50:24-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/04/28/glossaries-of-archaic-english-words</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/n4/mode/1up">Words used in Swaledale, Yorkshire</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/n48/mode/1up">Words used in the neighborhood of Whitby</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/n320/mode/1up">Cleveland Words</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/9/mode/1up">An Alphabet of Kenticisms</a> (glossary and proverbs)</li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/79/mode/1up">Surrey Provincialisms</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/110/mode/1up">Oxfordshire Words</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/122/mode/1up">South Warwickshire Provincialisms</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On the prose style of St John Fisher]]></title>
