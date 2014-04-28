@@ -4,7 +4,7 @@
   <title><![CDATA[Summa minutiae]]></title>
   <link href="http://summaminutiae.github.io/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
-  <updated>2014-04-27T15:32:34-05:00</updated>
+  <updated>2014-04-28T11:00:25-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
   <author>
     <name><![CDATA[Bill White]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Glossaries of archaic English words]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/04/28/glossaries-of-archaic-english-words/"/>
+    <updated>2014-04-28T10:50:24-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/04/28/glossaries-of-archaic-english-words</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/n4/mode/1up">Words used in Swaledale, Yorkshire</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/n48/mode/1up">Words used in the neighborhood of Whitby</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/n320/mode/1up">Cleveland Words</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/9/mode/1up">An Alphabet of Kenticisms</a> (glossary and proverbs)</li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/79/mode/1up">Surrey Provincialisms</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/110/mode/1up">Oxfordshire Words</a></li>
+<li><a href="https://archive.org/stream/glossaryofwordsu04harluoft#page/122/mode/1up">South Warwickshire Provincialisms</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The seven penitential psalms]]></title>
@@ -73,7 +91,7 @@ Bede Frost of Nashdom Abbey, Burnham, Buckinghamshire<br />
 London, Philip Allan, 1935</p></li>
 <li><p><a href="https://archive.org/details/thewaysofmentalp00lehouoft">The Ways of Mental Prayer</a><br />
 Dom <a href="http://vivificat1.blogspot.com/2008/01/achieving-purity-of-mind-according-to.html">Vitalis Lehodey</a>, Abbot of Briquebec, O.C.R.<br />
-Dublin, M. H. Gill &amp; Son, 1960</p></li>
+Dublin, M. H. Gill &amp; Son, 1960<br /></p></li>
 </ul>
 
 ]]></content>
