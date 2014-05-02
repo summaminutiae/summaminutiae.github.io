@@ -4,7 +4,7 @@
   <title><![CDATA[Summa minutiae]]></title>
   <link href="http://summaminutiae.github.io/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
-  <updated>2014-05-01T09:29:44-05:00</updated>
+  <updated>2014-05-01T19:37:03-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
   <author>
     <name><![CDATA[Bill White]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hungarian bubble sort]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/05/01/hungarian-bubble-sort/"/>
+    <updated>2014-05-01T19:22:03-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/05/01/hungarian-bubble-sort</id>
+    <content type="html"><![CDATA[<p>This may be the best thing on the internet: a bubble sort illustrated
+with a Hungarian folk dance.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/lyZQPjUT5B4 "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[English mystical verse]]></title>
