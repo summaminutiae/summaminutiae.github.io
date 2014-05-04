@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Summa minutiae]]></title>
+  <link href="http://summaminutiae.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://summaminutiae.github.io/"/>
+  <updated>2014-05-04T07:16:28-05:00</updated>
+  <id>http://summaminutiae.github.io/</id>
+  <author>
+    <name><![CDATA[Bill White]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[octopress tips &amp; tricks]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/05/04/octopress-tips-and-tricks/"/>
+    <updated>2014-05-04T06:59:21-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/05/04/octopress-tips-and-tricks</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ll add things to this as I find them.</p>
+
+<ul>
+<li><a href="http://www.meatleasing.com/octopress-hidden-features/index.html">add a description and a list of keywords to each post or page</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
