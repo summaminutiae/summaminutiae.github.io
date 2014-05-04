@@ -4,7 +4,7 @@
   <title><![CDATA[Summa minutiae]]></title>
   <link href="http://summaminutiae.github.io/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
-  <updated>2014-05-03T14:23:02-05:00</updated>
+  <updated>2014-05-03T19:17:20-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
   <author>
     <name><![CDATA[Bill White]]></name>
@@ -181,54 +181,87 @@ were edited into the <a href="http://www.archive.org/stream/earlyenglishpoet07pe
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Mental prayer at archive.org]]></title>
+    <title type="html"><![CDATA[Catholic books on the spiritual life]]></title>
     <link href="http://summaminutiae.github.io/blog/2014/04/27/mental-prayer-at-archive-dot-org/"/>
     <updated>2014-04-27T07:34:06-05:00</updated>
     <id>http://summaminutiae.github.io/blog/2014/04/27/mental-prayer-at-archive-dot-org</id>
-    <content type="html"><![CDATA[<ul>
-<li><p><a href="https://archive.org/details/TheMethodOfMentalPrayerRenderedPracticalAndEasyForAllSortsOfPersons">The Method of Mental Prayer</a><br />
-Rev Francis Nephew, S.J.<br />
+    <content type="html"><![CDATA[<p>Sorted by Library of Congress catalog number, where available; books
+without a catalog number are sorted by date.</p>
+
+<ul>
+<li><p><a href="https://archive.org/details/TheMethodOfMentalPrayerRenderedPracticalAndEasyForAllSortsOfPersons">The Method of Mental Prayer</a><br/>
+Rev Francis Nephew, S.J.<br/>
 London, Thomas Hales, 1694</p></li>
-<li><p><a href="https://archive.org/details/goldentreatiseof00pete">A Golden Treatise of Mental Prayer</a><br />
-St Peter of Alcantara, O.F.M.<br />
-Translated by Giles Willoughby, O.F.M.<br />
-Philadelphia, M. Fithian, 1844</p></li>
-<li><p>Meditations on the Mysteries of our Holy Faith Together With a Treatise on Mental Prayer<br />
-<a href="https://archive.org/details/meditationsonthe00puenuoft">Volume 1</a><br />
-<a href="https://archive.org/details/meditationsonthe02puenuoft">Volume 2</a><br />
-<a href="https://archive.org/details/meditationsonthe03puenuoft">Volume 3</a><br />
-<a href="https://archive.org/details/meditationsonthe04puenuoft">Volume 4</a><br />
-<a href="https://archive.org/details/meditationsonthe05puenuoft">Volume 5</a><br />
-<a href="https://archive.org/details/meditationsonmys06puenuoft">Volume 6</a><br />
-Ven. Louis de Ponte, S.J.<br />
-Richardson &amp; Son, London, 1864</p></li>
-<li><p><a href="https://archive.org/details/opuscontemplati00bonagoog">Opus Contemplationis Divi Bonaventuræ: Points for Mental Prayer</a><br />
-Paraphrased by K. D. B.<br />
+<li><p><a href="https://archive.org/details/opuscontemplati00bonagoog">Opus Contemplationis Divi Bonaventuræ: Points for Mental Prayer</a><br/>
+Paraphrased by K. D. B.<br/>
 London: Burns, Oates &amp; Company, 1880</p></li>
-<li><p><a href="https://archive.org/details/guideofmanofgood00siml">Exercise of Mental Prayer</a><br />
-Fr Joseph Simler, S.M.<br />
-Nazareth near Dayton Ohio, 1887</p></li>
-<li><p><a href="https://archive.org/details/viavitaestbened00hayegoog">The Via Vitæ of St. Benedict: The Holy Rule Arranged for Mental Prayer</a><br />
-Dom Bernard Hayes<br />
-New York, Cincinnati, Chicago, Benziger Brothers, 1908</p></li>
-<li><p>The Practice of Mental Prayer<br />
-<a href="http://catalog.hathitrust.org/Record/008417111">First Treatise, Ordinary Prayer</a> (pdf held hostage by the <a href="http://en.wikipedia.org/wiki/HathiTrust">Hathi Trust</a>)<br />
-<a href="https://archive.org/details/practiceofmenta00maum">Second Treatise, Extraordinary Prayer</a><br />
-Rev René Maumigny, S.J.<br />
-PJ Kenedy &amp; Sons, 1915<br>
-<strong>An original work on the subject.</strong></p></li>
-<li><p><a href="https://archive.org/details/MN5044ucmf_0">A Treatise on Mental Prayer</a><br />
-Ven. Louis de Puente, S.J.<br />
-London, Burns, Oates &amp; Washbourne Ltd., 1929<br />
-<strong>The introductions to Puente&rsquo;s 6 volumes woven together into a book.</strong></p></li>
-<li><p><a href="https://archive.org/details/MN40282ucmf_1">The Art of Mental Prayer</a><br />
-Bede Frost of Nashdom Abbey, Burnham, Buckinghamshire<br />
-London, Philip Allan, 1935<br />
+<li><p><a href="https://archive.org/details/goldentreatiseof00pete">A Golden Treatise of Mental Prayer</a><br/>
+<strong>BV 209 .P42 1844</strong><br/>
+St Peter of Alcantara, O.F.M.<br/>
+Translated by Giles Willoughby, O.F.M.<br/>
+Philadelphia, M. Fithian, 1844</p></li>
+<li><p><a href="https://archive.org/details/MN40282ucmf_1">The Art of Mental Prayer</a><br/>
+<strong>BV 210 .F9 1935</strong><br/>
+Bede Frost of Nashdom Abbey, Burnham, Buckinghamshire<br/>
+London, Philip Allan, 1935<br/>
 <strong>From the <a href="http://www.lukehoney.co.uk/blogs/inspiration/7747849-the-story-of-nashdom-abbey">Anglo-Catholic Benedictine monastery of Nashdom</a>.</strong></p></li>
-<li><p><a href="https://archive.org/details/thewaysofmentalp00lehouoft">The Ways of Mental Prayer</a><br />
-Dom <a href="http://vivificat1.blogspot.com/2008/01/achieving-purity-of-mind-according-to.html">Vitalis Lehodey</a>, Abbot of Briquebec, O.C.R.<br />
-Dublin, M. H. Gill &amp; Son, 1960<br />
+<li><p>The Practice of Mental Prayer<br/>
+<strong>BV 210 .M42 1915</strong><br/>
+Rev René Maumigny, S.J.<br/>
+PJ Kenedy &amp; Sons, 1915<br/>
+<a href="http://catalog.hathitrust.org/Record/008417111">First Treatise, Ordinary Prayer</a> (pdf held hostage by the <a href="http://en.wikipedia.org/wiki/HathiTrust">Hathi Trust</a>)<br/>
+<a href="https://archive.org/details/practiceofmenta00maum">Second Treatise, Extraordinary Prayer</a><br/>
+<strong>An original work on the subject.</strong></p></li>
+<li><p><a href="https://archive.org/details/thewaysofmentalp00lehouoft">The Ways of Mental Prayer</a><br/>
+<strong>BV4813 .L4313 1960</strong><br/>
+Dom <a href="http://vivificat1.blogspot.com/2008/01/achieving-purity-of-mind-according-to.html">Vitalis Lehodey</a>, Abbot of Briquebec, O.C.R.<br/>
+Dublin, M. H. Gill &amp; Son, 1960<br/>
 <strong>An English translation of the 1928 French edition, which was an original work on the subject.</strong></p></li>
+<li><p><a href="https://archive.org/details/guideofmanofgood00siml">Exercise of Mental Prayer</a><br/>
+<strong>BV 4813 .S5 1887</strong><br/>
+Fr Joseph Simler, S.M.<br/>
+Nazareth near Dayton Ohio, 1887</p></li>
+<li><p><a href="https://archive.org/details/MN41530ucmf_5">The spiritual life; a treatise on ascetical and mystical theology</a>, 2nd ed
+<strong>BV 5032 .T19</strong>
+Very Rev. Adolphe Tanquerey, S.S., D.D.
+Society of St John the Evangelist
+Desclée, Tournai, Belgium, 1930</p></li>
+<li><p>The Directorium Asceticum; or, Guide to the Spiritual Life<br/>
+<strong>BV 5034 .5313 1902</strong><br/>
+John Baptist Scaramelli, S.J.<br/>
+R &amp; T Washbourne, London; Benziger, New York; 5th ed. 1902<br/>
+<a href="https://archive.org/details/directoriumascet01scaruoft">Volume 1</a><br/>
+<a href="https://archive.org/details/thedirectoriumas02scaruoft">Volume 2</a><br/>
+<a href="https://archive.org/details/directoriumascet03scaruoft">Volume 3</a><br/>
+<a href="https://archive.org/details/directoriumascet04scaruoft">Volume 4</a></p></li>
+<li><p>Meditations on the Mysteries of our Holy Faith Together With a Treatise on Mental Prayer<br/>
+<strong>BX 2186 .P8 1852</strong><br/>
+Ven. Louis de Ponte, S.J.<br/>
+Richardson &amp; Son, London, 1864<br/>
+<a href="https://archive.org/details/meditationsonthe00puenuoft">Volume 1</a><br/>
+<a href="https://archive.org/details/meditationsonthe02puenuoft">Volume 2</a><br/>
+<a href="https://archive.org/details/meditationsonthe03puenuoft">Volume 3</a><br/>
+<a href="https://archive.org/details/meditationsonthe04puenuoft">Volume 4</a><br/>
+<a href="https://archive.org/details/meditationsonthe05puenuoft">Volume 5</a><br/>
+<a href="https://archive.org/details/meditationsonmys06puenuoft">Volume 6</a></p></li>
+<li><p><a href="https://archive.org/details/MN5044ucmf_0">A Treatise on Mental Prayer</a><br/>
+<strong>BX 2186 .P93 1929</strong><br/>
+Ven. Louis de Puente, S.J.<br/>
+London, Burns, Oates &amp; Washbourne Ltd., 1929<br/>
+<strong>The introductions to Puente&rsquo;s 6 volumes woven together into a book.</strong></p></li>
+<li><p>The Christian Life and Virtues Considered in the Religious State<br/>
+<strong>BX 2350 .G3613 1878</strong><br/>
+Mgr. Charles-Louis Gay<br/>
+English translation of the 6th French edition by Abbot Burder, O.C.R.<br/>
+London: Burns &amp; Oates, 1878<br/>
+<a href="https://archive.org/details/christianlife01gayuoft">Volume 1</a><br/>
+<a href="https://archive.org/details/christianlife02gayuoft">Volume 2</a><br/>
+<a href="https://archive.org/details/christianlife03gayuoft">Volume 3</a></p></li>
+<li><p><a href="https://archive.org/details/viavitaestbened00hayegoog">The Via Vitæ of St. Benedict: The Holy Rule Arranged for Mental Prayer</a><br/>
+<strong>BX 3004.Z5 H49 1908</strong><br/>
+Dom Bernard Hayes<br/>
+New York, Cincinnati, Chicago, Benziger Brothers, 1908<br/>
+<strong>An original Benedictine work on the subject.</strong></p></li>
 </ul>
 
 ]]></content>
