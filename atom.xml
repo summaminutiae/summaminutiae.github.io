@@ -4,7 +4,7 @@
   <title><![CDATA[Summa minutiae]]></title>
   <link href="http://summaminutiae.github.io/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
-  <updated>2014-05-04T07:18:31-05:00</updated>
+  <updated>2014-05-06T13:38:48-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
   <author>
     <name><![CDATA[Bill White]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Catholic Party]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/05/06/the-catholic-party/"/>
+    <updated>2014-05-06T12:05:35-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/05/06/the-catholic-party</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s a
+<a href="http://theweek.com/article/index/261033/catholics-must-learn-to-resist-their-popes-mdash-even-pope-francis">great article by Michael Brendan Dougherty</a>
+on the modern &ldquo;conservative&rdquo; untramontanists &mdash; a faction modeled on
+modern political parties.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Liturgical Year]]></title>
@@ -115,6 +127,7 @@ we’ve eaten.</p>
 </ul>
 </li>
 <li><a href="http://www.gbps.org.uk/publications/books/cumulative-index-to-the-british-philatelist.php"><em>The British Philatelist</em></a>, 1908&mdash;1954</li>
+<li><a href="http://www.ibiblio.org/pha/TWI/">The War Illustrated</a></li>
 </ul>
 
 
