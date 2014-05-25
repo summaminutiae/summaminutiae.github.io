@@ -4,7 +4,7 @@
   <title><![CDATA[Summa minutiae]]></title>
   <link href="http://summaminutiae.github.io/atom.xml" rel="self"/>
   <link href="http://summaminutiae.github.io/"/>
-  <updated>2014-05-07T08:11:58-05:00</updated>
+  <updated>2014-05-25T17:25:59-05:00</updated>
   <id>http://summaminutiae.github.io/</id>
   <author>
     <name><![CDATA[Bill White]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[North Carolina folklore]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/05/25/north-carolina-folklore/"/>
+    <updated>2014-05-25T17:24:05-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/05/25/north-carolina-folklore</id>
+    <content type="html"><![CDATA[<p>I wish I had time to read all the interesting books in the world.
+Here&rsquo;s the Frank C. Brown collection of North Carolina Folklore:</p>
+
+<ul>
+<li>Volume 1: <a href="https://archive.org/details/frankcbrowncolle00fran">Games and Rhymes • Beliefs and Customs • Riddles • Proverbs • Speech • Tales and Legends</a></li>
+<li>Volume 2: <a href="https://archive.org/details/frankcbrowncolle02fran">Folk Ballads from North Carolina</a></li>
+<li>Volume 3: <a href="https://archive.org/details/frankcbrowncolle03fran">Folk Songs from North Carolina</a></li>
+<li>Volume 4: <a href="https://archive.org/details/frankcbrowncolle04fran">The Music of the Ballads</a></li>
+<li>Volume 5: <a href="https://archive.org/details/frankcbrowncolle05fran">The Music of the Folk Songs</a></li>
+<li>Volume 6: <a href="https://archive.org/details/frankcbrowncolle06fran">Popular Beliefs and Superstitions from North Carolina, Part 1</a></li>
+<li>Volume 7: <a href="https://archive.org/details/frankcbrowncolle07fran">Popular Beliefs and Superstitions from North Carolina, Part 2</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The writings of Christopher Dawson]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/05/10/the-writings-of-christopher-dawson/"/>
+    <updated>2014-05-10T08:09:42-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/05/10/the-writings-of-christopher-dawson</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://archive.org/details/dynamicsofworldh008899mbp">The Dynamics of World History</a> (Sheed and Ward, 1956)
+
+<ul>
+<li><a href="https://archive.org/details/ChristianityAndCultureSelectionsFromTheWritingsOfChristopherDawson">Christianity and Culture: Selections from the Writings of Christopher Dawson</a> (Darrell Wright, 2008)</li>
+</ul>
+</li>
+<li></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Writings Of Christopher Dawson]]></title>
+    <link href="http://summaminutiae.github.io/blog/2014/05/10/the-writings-of-christopher-dawson/"/>
+    <updated>2014-05-10T00:00:00-05:00</updated>
+    <id>http://summaminutiae.github.io/blog/2014/05/10/the-writings-of-christopher-dawson</id>
+    <content type="html"><![CDATA[ - [[https://archive.org/details/dynamicsofworldh008899mbp][The Dynamics of World History]] (Sheed and Ward, 1956)
+ - [[https://archive.org/details/ChristianityAndCultureSelectionsFromTheWritingsOfChristopherDawson_989][Christianity and Culture: Selections from the Writings of Christopher Dawson]] (Darrell Wright, 2008)
+ - 
+ 
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fry and Laurie on Wodehouse]]></title>
@@ -145,10 +196,10 @@ we’ve eaten.</p>
 <li>Antoine Lavoisier&rsquo;s <a href="https://archive.org/details/2561009R.nlm.nih.gov"><em>Elements of Chemistry</em></a></li>
 <li>Oxford English Dictionary: <a href="https://archive.org/stream/newenglishdictio102murruoft#page/n40/mode/1up">entry for <em>vale</em></a></li>
 <li><a href="http://en.wikipedia.org/wiki/Country_Life_(magazine"><em>Country Life</em> magazine</a></li>
-<li>Francis Groce, <a href="http://www.gutenberg.org/ebooks/5402"><em>1811 Dictionary of the Vulgar Tongue</em></a>
+<li>Francis Grose, <a href="http://www.gutenberg.org/ebooks/5402"><em>1811 Dictionary of the Vulgar Tongue</em></a>
 
 <ul>
-<li><a href="http://en.wikipedia.org/wiki/Francis_Grose#List_of_works">other works by Francis Groce</a>, including</li>
+<li><a href="http://en.wikipedia.org/wiki/Francis_Grose#List_of_works">other works by Francis Grose</a>, including</li>
 <li><a href="https://archive.org/details/cu31924027444565"><em>A provincial glossary; with a collection of local proverbs, and popular superstitions</em> (1811)</a></li>
 </ul>
 </li>
